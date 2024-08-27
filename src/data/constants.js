@@ -184,7 +184,7 @@ export const projects = [
   {
     id: 2,
     title: "Enhanced Project Task Manager",
-    date: "Aug 2023",
+    date: "May 2024",
     description:
       "Developed acomprehensive To-Do List application using React, SQL client, Node.js, and Express.js, enabling CRUDoperations with added features to include project ID, description, professor details, and contact information for each task",
     image:
@@ -197,7 +197,7 @@ export const projects = [
   {
     id: 3,
     title: "Portfolio",
-    date: "Oct 2023",
+    date: "Aug 2024",
     description:
       "My Portfolio built using ReactJS.",
     image:
@@ -215,7 +215,7 @@ export const projects = [
   {
     id: 4,
     title: "Responsive Calculator",
-    date: "Oct 2023",
+    date: "April 2024",
     description:
       "Responsive Calculator using ReactJS.",
     image:
@@ -254,7 +254,7 @@ export const projects = [
   {
     id: 7,
     title: "Youtube Version3",
-    date: "April 2024",
+    date: "Jan 2024",
     description:
       "Developed a YouTube version 3 application using ReactJS, allowing users to search for videos and view details.",
     image:
